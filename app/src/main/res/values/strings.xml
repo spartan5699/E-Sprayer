@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Weather Box</string>
+    
+    <string name="banana1">
+        <br>Disease:- Fusarium wilt \n</br>
+        <br>Symptom:- wilting and drying of plants \n</br>
+        <br>Temperature:- 15-35c \n</br>
+        <br>Humidity:- 85-95 \n</br>
+        <br>Pesticide:- Carbendzim \n</br>
+        <br>Quantity:- 40.0 gram Per acre </br>
+    </string>
+
+    <string name="banana2">
+        <br>Disease:- Banana pseudostem weevil \n</br>
+        <br>Symptom:- Early symptoms are presence of small pinhead-sized holes on the stem Gummy substance comes out from the holes on the stem. \n</br>
+        <br>When split open the stem ,exhibits extensive tunnelling in the stem. \n</br>
+        <br>Temperature:- 20-35c \n</br>
+        <br>Humidity:- 80-100 \n</br>
+        <br>Pesticide:- carbaryl \n </br>
+        <br>Quantity:- 200.0 gram per acre</br>
+    </string>
+
+    <string name="banana3">
+        <br>Disease:- Banana Aphid \n</br>
+        <br>Symptom:- Black Aphids congregate below the leaf Severe infestation causes leaf dwarfing and curling,reduced bunch size.\n</br>
+        <br>Temperature:- 25-30c\n</br>
+        <br>Humidity:- 85-95\n</br>
+        <br>Pesticide:- Dimethoate\n</br>
+        <br>Quantity:- 200.0 ml per acre\n</br>
+    </string>
+
+    <string name="cust1">
+        <br>Disease:- Leaf spot\n</br>
+        <br>Symptom:- Characteristic spots with dark and light brown outer ring
+        Defoliation of the plants\n</br>
+        <br>Temperature:- 15\n</br>
+        <br>Humidity:- 85-90\n</br>
+        <br>Pesticide:- Mancozed\n</br>
+        <br>Quantity:- 400.0 ml per acre\n</br>
+    </string>
+
+    <string name="cust2">
+        <br>Disease:- Anthracnose\n</br>
+        <br>Symptom:- Dark black spots on leaves and unripe fruits affected shrivel
+            may cling to the tree\n</br>
+        <br>Temperature:- 18-25\n</br>
+        <br>Humidity:- 80-90\n</br>
+        <br>Pesticide:- Copper Oxychloride\n</br>
+        <br>Quantity:- 500.0 gram per acre\n</br>
+    </string>
+    
+    <string name="pome1">
+
+        <br>Disease:-Fruit Piercing mout\n</br>
+        <br>Symptom:- Moths penetrate the skin of the ripe or ripening fruit and suck the juice.\n</br>
+        <br>Temperature:-20-32\n</br>
+        <br>Humidity:-93-95\n</br>
+        <br>Pesticide:- Fenvulrate\n</br>
+        <br>Quantity:-300.0 ml per acre\n</br>
+    </string>
+
+    <string name="pome2">
+        <br>Disease:- Fruit rot\n</br>
+        <br>Symptom:- infected fruit generally are lighter in weight and the ride may be slightly off -color, such as a paler red and may be slightly off color, such as a paler red and may show some brownish -red discoloration. \n</br>
+        <br>Temperature:- 25-30\n</br>
+        <br>Humidity:- 92-95\n</br>
+        <br>Pesticide:- Propiconazole\n</br>
+        <br>Quantity:- 200.0 gram per acre\n</br>
+    </string>
+
+    <string name="cott1">
+        <br>Disease:- Spotted bollworm\n</br>
+        <br>Symptom:- Caterpillars bores into top tender shoot ,the portion of the shoot above the damage the damage withers ,droops and dries up.\n</br>
+        <br>Temperature:- 20-30\n</br>
+        <br>Humidity:- 70-80\n</br>
+        <br>Pesticide:- Acephate\n</br>
+        <br>Quantity:- 400.0 gram per acre\n</br>
+    </string>
+
+    <string name="cott2">
+        <br>Disease:- Boll rot\n</br>
+        <br>Symptom:- Brown or black dots covering entire bolls .Bolls do not open and fall prematurely.\n</br>
+        <br>Temperature:- 23-30\n</br>
+        <br>Humidity:- 70-80\n</br>
+        <br>Pesticide:- Carbendazim\n</br>
+        <br>Quantity:- 200.0 gram per acre\n</br>
+    </string>
+
+    <string name="sugar1">
+        <br>Disease:- White grub\n</br>
+<br>Symptom:- Drying entire crown .
+Affected canes come off easily when pulled.
+    Affected canes falls down in the field.\n</br>
+        <br>Temperature:- 30-34\n</br>
+        <br>Humidity:- 40-80%\n</br>
+        <br>Pesticide:- Chloropyriphos\n</br>
+        <br>Quantity:- 1.0 ltr per acre\n</br>
+    </string>
+    <string name="temperature">Temperature</string>
+</resources>

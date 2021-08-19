@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".prediction">
+
+    <ImageButton
+        android:id="@+id/banana"
+        android:layout_width="190dp"
+        android:layout_height="193dp"
+        app:srcCompat="@drawable/banana" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="596dp"
+        app:srcCompat="@drawable/grapes" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="193dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:background="#FFFFFF"
+        android:text="Grapes"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="397dp"
+        app:srcCompat="@drawable/lemon" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="538dp"
+        android:background="#FFFFFF"
+        android:text="Lemon"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="193dp"
+        android:layout_height="192dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="397dp"
+        app:srcCompat="@drawable/orange" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="192dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="539dp"
+        android:background="#FFFFFF"
+        android:text="Orange"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/pome"
+        android:layout_width="191dp"
+        android:layout_height="190dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="200dp"
+        app:srcCompat="@drawable/pomogranate" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:background="#FFFFFF"
+        android:text="Banana"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="202dp"
+        android:layout_marginRight="202dp"
+        android:layout_marginBottom="340dp"
+        android:background="#FFFFFF"
+        android:text="Pomegranate"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/custar"
+        android:layout_width="193dp"
+        android:layout_height="190dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="201dp"
+        app:srcCompat="@drawable/sitaphal1" />
+
+    <ImageButton
+        android:id="@+id/cott"
+        android:layout_width="wrap_content"
+        android:layout_height="190dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="203dp"
+        android:layout_marginRight="203dp"
+        android:layout_marginBottom="0dp"
+        app:srcCompat="@drawable/cotton1" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginEnd="202dp"
+        android:layout_marginRight="202dp"
+        android:layout_marginBottom="141dp"
+        android:background="#FFFFFF"
+        android:text="Cotton"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/sugar"
+        android:layout_width="193dp"
+        android:layout_height="190dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp"
+        app:srcCompat="@drawable/sugarcane1" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="194dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginRight="-1dp"
+        android:layout_marginBottom="341dp"
+        android:background="#FFFFFF"
+        android:text="CustardApple"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="193dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="141dp"
+        android:background="#FFFFFF"
+        android:text="Sugarcane"
+        android:textAlignment="center"
+        android:textColor="#030303"
+        android:textSize="30sp" />
+</RelativeLayout>

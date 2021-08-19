@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/alike_angular</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/brawler</item>
+        <item>@font/carter_one</item>
+        <item>@font/cinzel_decorative_black</item>
+        <item>@font/cinzel_decorative_bold</item>
+        <item>@font/frijole</item>
+        <item>@font/jacques_francois_shadow</item>
+    </array>
+</resources>
